@@ -1,3 +1,10 @@
+-e ./Systems_Design_Preferendus/genetic_algorithm_pfm
+numpy
+matplotlib
+scipy
+ipywidgets
+voila==0.5.11
+
 numpy
 matplotlib
 ipywidgets
