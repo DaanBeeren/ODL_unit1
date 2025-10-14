@@ -1,4 +1,4 @@
--e ./Systems_Design_Preferendus/genetic_algorithm_pfm
+
 numpy
 matplotlib
 scipy
