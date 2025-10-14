@@ -5,9 +5,3 @@ scipy
 ipywidgets
 voila==0.5.11
 
-numpy
-matplotlib
-ipywidgets
-scipy
-voila
-genetic_algorithm_pfm
