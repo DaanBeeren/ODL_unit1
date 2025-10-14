@@ -3,3 +3,4 @@ matplotlib
 ipywidgets
 scipy
 voila
+genetic_algorithm_pfm
