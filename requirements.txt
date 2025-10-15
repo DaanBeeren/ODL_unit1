@@ -4,4 +4,3 @@ matplotlib
 scipy
 ipywidgets
 voila==0.5.11
-genetic_algorithm_pfm
